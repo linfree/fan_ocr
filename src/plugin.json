@@ -1,0 +1,19 @@
+{
+	"version": "0.0.1",
+	"pluginName": "反OCR工具",
+	"author": "Linfree",
+	"main": "index.html",
+	"logo": "logo.png",
+	"features": [
+		{
+			"code": "fanocr",
+			"explain": "反OCR",
+			"cmds": [
+				"马赛克",
+				"fanocr",
+				"反OCR",
+				"ocr"
+			]
+		}
+	]
+}
